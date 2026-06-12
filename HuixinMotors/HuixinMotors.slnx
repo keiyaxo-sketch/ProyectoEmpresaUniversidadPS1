@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="HuixinMotors.Entities/HuixinMotors.Entities.csproj" />
-  <Project Path="HuixinMotors.Data/HuixinMotors.Data.csproj" />
-  <Project Path="HuixinMotors.Business/HuixinMotors.Business.csproj" />
-</Solution>
