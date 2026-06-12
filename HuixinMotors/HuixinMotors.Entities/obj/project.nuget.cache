@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYRF5/UKCpA=",
+  "success": true,
+  "projectFilePath": "/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/HuixinMotors.Entities.csproj",
+  "expectedPackageFiles": [
+    "/home/faxxo/.nuget/packages/microsoft.netcore.app.ref/8.0.27/microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "/home/faxxo/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.27/microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/bin/Debug/net8.0/HuixinMotors.Data.deps.json
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/bin/Debug/net8.0/HuixinMotors.Data.dll
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/bin/Debug/net8.0/HuixinMotors.Data.pdb
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/bin/Debug/net8.0/HuixinMotors.Entities.dll
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/bin/Debug/net8.0/HuixinMotors.Entities.pdb
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMotors.Data.csproj.AssemblyReference.cache
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMotors.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMotors.Data.AssemblyInfoInputs.cache
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMotors.Data.AssemblyInfo.cs
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMotors.Data.csproj.CoreCompileInputs.cache
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMo.4555F440.Up2Date
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMotors.Data.dll
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/refint/HuixinMotors.Data.dll
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/HuixinMotors.Data.pdb
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Data/obj/Debug/net8.0/ref/HuixinMotors.Data.dll

@@ -1,0 +1,11 @@
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/bin/Debug/net8.0/HuixinMotors.Entities.deps.json
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/bin/Debug/net8.0/HuixinMotors.Entities.dll
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/bin/Debug/net8.0/HuixinMotors.Entities.pdb
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/HuixinMotors.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/HuixinMotors.Entities.AssemblyInfoInputs.cache
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/HuixinMotors.Entities.AssemblyInfo.cs
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/HuixinMotors.Entities.csproj.CoreCompileInputs.cache
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/HuixinMotors.Entities.dll
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/refint/HuixinMotors.Entities.dll
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/HuixinMotors.Entities.pdb
+/home/faxxo/Escritorio/HuixinMotors/HuixinMotors.Entities/obj/Debug/net8.0/ref/HuixinMotors.Entities.dll
